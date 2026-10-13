@@ -62,7 +62,7 @@ GPL-3.0. Consulte [LICENSE](./LICENSE).
 
 Las versiones oficiales de VansonLoader se publican gratuitamente en la página de [Releases](https://github.com/vaenshine/vansonloader/releases) de este repositorio.
 
-El proyecto promueve el acceso gratuito y el intercambio gratuito mediante fuentes oficiales. La reventa de pago de paquetes oficiales sin modificar carece de respaldo o autorización del responsable del proyecto. Los derechos de redistribución concedidos por GPL-3.0 permanecen sin cambios.
+El proyecto promueve el acceso gratuito y el intercambio gratuito mediante fuentes oficiales. El responsable del proyecto no respalda ni recomienda la reventa de pago de paquetes oficiales sin modificar. Esa reventa carece de condición de canal oficial o socio del proyecto. Los derechos de redistribución concedidos por GPL-3.0 permanecen sin cambios.
 
 GPL-3.0 permite a terceros redistribuir copias originales o modificadas por una tarifa. Los distribuidores deben cumplir todas las obligaciones aplicables de GPL-3.0, incluida la conservación de los avisos requeridos, la entrega de la licencia, el acceso al código fuente correspondiente completo y la identificación clara de las versiones modificadas.
 

@@ -62,7 +62,7 @@ GPL-3.0. Xem [LICENSE](./LICENSE).
 
 Các bản phát hành VansonLoader chính thức được cung cấp miễn phí trên trang [Releases](https://github.com/vaenshine/vansonloader/releases) của kho mã này.
 
-Dự án khuyến khích truy cập miễn phí và chia sẻ miễn phí qua các nguồn chính thức. Việc bên thứ ba bán lại có thu phí các gói chính thức chưa sửa đổi không nhận được sự chứng thực, ủng hộ hoặc ủy quyền của người duy trì. Các quyền phân phối lại do GPL-3.0 cấp vẫn giữ nguyên.
+Dự án khuyến khích truy cập miễn phí và chia sẻ miễn phí qua các nguồn chính thức. Người duy trì không chứng thực hoặc khuyến nghị việc bên thứ ba bán lại có thu phí các gói chính thức chưa sửa đổi. Hoạt động bán lại đó không có tư cách kênh chính thức hoặc đối tác dự án. Các quyền phân phối lại do GPL-3.0 cấp vẫn giữ nguyên.
 
 GPL-3.0 cho phép bên thứ ba phân phối bản gốc hoặc bản sửa đổi có thu phí. Bên phân phối phải thực hiện đầy đủ các nghĩa vụ GPL-3.0 áp dụng, bao gồm giữ nguyên các thông báo bắt buộc, cung cấp giấy phép, cung cấp quyền truy cập vào toàn bộ mã nguồn tương ứng và ghi rõ các phiên bản đã sửa đổi.
 

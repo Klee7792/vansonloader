@@ -20,7 +20,7 @@ Official releases are published free of charge at:
 
 https://github.com/vaenshine/vansonloader/releases
 
-The project's preferred model is free access and free sharing through official sources. Third-party paid resale of unchanged official packages receives no endorsement or authorization from the maintainer. The redistribution rights granted by GPL-3.0 remain unchanged.
+The project promotes free access and free sharing through official sources. The maintainer neither endorses nor recommends third-party paid resale of unchanged official packages. Such resale carries no official-channel or project-partner status. The redistribution rights granted by GPL-3.0 remain unchanged.
 
 Third-party packages, installation services, and paid support are provided independently by their respective distributors. Those distributors are responsible for their packages, services, representations, and GPL-3.0 compliance.
 
@@ -50,7 +50,7 @@ VansonLoader 源代码及其适用的软件发行版本采用 GPL-3.0 许可证�
 
 https://github.com/vaenshine/vansonloader/releases
 
-本项目倡导通过官方渠道免费获取与免费分享。维护者对第三方付费转售原样官方安装包不作认可、背书或授权。GPL-3.0 授予的分发权利保持不变。
+本项目倡导通过官方渠道免费获取与免费分享。维护者不认可或背书第三方付费转售原样官方安装包，此类销售不具备官方渠道或项目合作身份。GPL-3.0 授予的分发权利保持不变。
 
 第三方安装包、安装服务及付费支持由相应分发者独立提供。分发者对其安装包、服务、宣传内容及 GPL-3.0 合规承担责任。
 
