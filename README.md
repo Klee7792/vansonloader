@@ -57,3 +57,15 @@ Use it in lawful environments and respect applicable rules for target apps and s
 ## License
 
 GPL-3.0. See [LICENSE](./LICENSE).
+
+## Distribution and Project Identity
+
+Official VansonLoader releases are published free of charge through this repository's [Releases](https://github.com/vaenshine/vansonloader/releases) page.
+
+The project's preferred model is free access and free sharing through official sources. Third-party paid resale of unchanged official packages receives no endorsement or authorization from the maintainer. The redistribution rights granted by GPL-3.0 remain unchanged.
+
+GPL-3.0 permits third parties to redistribute modified or unmodified copies for a fee. Distributors must satisfy all applicable GPL-3.0 requirements, including preservation of required notices, delivery of the license, access to the Complete Corresponding Source, and clear identification of modified versions.
+
+The VansonLoader name, logo, package identity, and official project identity remain protected project identifiers. Third-party distributors must clearly identify themselves as independent and unofficial and must avoid any presentation that suggests authorization, sponsorship, endorsement, or affiliation with the VansonLoader project or its maintainer.
+
+See [Trademark and Distribution Policy](./TRADEMARKS.md) for details.
